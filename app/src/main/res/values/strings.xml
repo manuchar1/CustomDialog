@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor amet Lorem ipsum dolor sit amet sit amet</string>
+    <string name="tv_continue">continue</string>
+</resources>
